@@ -38,6 +38,7 @@ OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 
 
 # Boot Section Size in *bytes*
+BOOTLOADER = caterina
 OPT_DEFS += -DBOOTLOADER_SIZE=4096
 
 
