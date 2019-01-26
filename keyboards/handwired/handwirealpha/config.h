@@ -40,6 +40,7 @@
 /* prevent stuck modifiers */
 #define PREVENT_STUCK_MODIFIERS
 
+#define GRAVE_ESC_CTRL_OVERRIDE
 
 #ifdef RGB_DI_PIN
 #define RGBLIGHT_ANIMATIONS
